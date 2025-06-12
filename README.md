@@ -1,4 +1,5 @@
-# AI-Job-Market-Disruption-Tracker
+# 
+AI Job Market Disruption Analysis
 
 
 This analysis explores the impact of Artificial Intelligence (AI) on global workforce trends, focusing on layoffs across industries, geographies, and company stages. The data reveals a surge in AI-driven restructuring, particularly in late-stage companies and sectors like Finance, Tech, and Retail. 
