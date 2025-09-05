@@ -49,38 +49,6 @@ This repository provides **actionable recommendations** for policymakers, HR lea
 - **Statistical Analysis**: **statsmodels**, **scipy.stats**
 - **Data Sources**: Industry reports, company filings, news APIs
 
-## ** Project Structure**
-
-```
-ai-job-market-analysis/
-├── data/
-│   ├── raw/                    # Raw data files
-│   ├── processed/              # Cleaned datasets
-│   └── external/               # Third-party data sources
-├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_exploratory_analysis.ipynb
-│   ├── 04_industry_analysis.ipynb
-│   ├── 05_geographic_analysis.ipynb
-│   └── 06_predictive_modeling.ipynb
-├── src/
-│   ├── data_processing/
-│   ├── visualization/
-│   ├── modeling/
-│   └── utils/
-├── reports/
-│   ├── executive_summary.pdf
-│   ├── detailed_analysis.html
-│   └── recommendations.md
-├── assets/
-│   ├── visualizations/
-│   └── presentations/
-├── requirements.txt
-└── README.md
-```
-
-
 
 ## ** Analysis Workflow**
 
